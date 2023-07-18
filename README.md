@@ -31,6 +31,7 @@ Short summary on functionality and used technologies.
 
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
+| 1.2     | March 10, 2023   | Update Age  |
 | 1.1     | March 10, 2021   | Update comment  |
 | 1.0     | January 29, 2021 | Initial release |
 
